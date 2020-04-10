@@ -18,34 +18,27 @@ You can check it from your UMS or LPU touch from seating plan on home of your UM
 
 if you dont attend ETE(end term) you will given E grade.
 
-Reappear exam is the exam opted by those students who scored E grade in the semester exam,In 
-this exam your MTE and ETE exam will be substituted.
-
-Improvement exams are those exams given by those students who wish to improve their marks in 
-their MTE and ETE,It is same as reappear exam.
-
-Reappear and Improvements can be opted/given in the next 5 times from the date of your result 
+Reappear exam is the exam opted by those students who scored E grade in the semester exam,In this exam your MTE and ETE exam will be substituted,can be opted/given in the next 5 times from the date of your result 
 announced.
 
-you can check instruction plan for credit of any subject.
+Improvement exams are those exams given by those students who wish to improve their marks in their MTE and ETE,It is same as reappear exam,can be opted/given in the next 5 times from the date of your result announced.
 
-TGPA of each subject will be multiplied by the credit of that subject,The sum of total credit divided 
-by maximum credit is your TGPA
+TGPA of each subject will be multiplied by the credit of that subject,The sum of total credit divided by maximum credit is your TGPA
 TGPA=credit1*subject1+credit2*subject2+___/(credit1+credit2+__)10
-
 TGPA is calculated for every semester while CGPA is calculated as overall.
 
-the Passing criteria is either you have to score 40% overall in the whole semester or 45% inETE.
+The Passing criteria is either you have to score 40% overall in the whole semester or 45% inETE.
 
 In LPU the grade criteria is according to competitive grading.
 
 Backlog is compulsory for those students who had scored F grade in the subject,In Backlog you have to do the whole class and CA and attendence will be calculated.
 
 
-if you score less in improvement exam than the regular exam,marks of the best among two will be selected.
+If you score less in improvement exam than the regular exam,marks of the best among two will be selected.
 
-Difference between Backlog and reappear is,In backlog You have to do whole class and give each and every CA with attendance while in 
-reappear you have to give exam which will substitute the marks of MTE and ETE.
+Difference between Backlog and reappear is,In backlog You have to do whole class and give each and every CA with attendance while in reappear you have to give exam which will substitute the marks of MTE and ETE.
+
+
 
 
 

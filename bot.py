@@ -33,11 +33,11 @@ def LemNormalize(text):
     return LemTokens(nltk.word_tokenize(text.lower().translate(remove_punct_dict)))
 
 Introduce_Ans = ["My name is Tikku.","My name is Tikku i can help you in examination related issues.","Im tikku :) ","My name is tikku.I am happy to solve your examination related queries :) "]
-GREETING_INPUTS = ("hello", "hi","hiii","hii","hiiii","hiiii", "greetings", "sup", "what's up","hey",)
-GREETING_RESPONSES = ["hi", "hey", "hii there", "hi there", "hello", "I am glad! You are talking to me"]
-Basic_Q = ("what is your work ?","what is your work","what can you do?","what you can do.")
+GREETING_INPUTS = ("hello", "hi","hiii","hii","hiiii","hiiii", "greetings", "sup", "what's up","hey", "how are you", "hola", "Namaste" )
+GREETING_RESPONSES = ["hi", "hey", "hii there", "hi there", "hello", "I am glad! You are talking to me", "hola", "namaste"]
+Basic_Q = ("what is your work ?","what is your work","what can you do?","what you can do.", "What help can you do for me?")
 Basic_Ans = "I can help you with examinaton related issues,about Examination related rules,informations and many more."
-Basic_Om = ("when will exam start","when will exam begin.","when will exam start in lpu ","when will exam start in lpu?","when will exam start in lpu?","","when will exam begin in lpu.")
+Basic_Om = ("when will exam start","when will exam begin.","when will exam start in lpu ","when will exam start in lpu?","when will exam start in lpu?","","when will exam begin in lpu.", "when is my exam?")
 Basic_AnsM = ["Please refer UMS for detail,goto Examination details section and you will find details of start of exam."]
 
 
